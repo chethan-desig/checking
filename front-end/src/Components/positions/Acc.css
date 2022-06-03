@@ -1,0 +1,26 @@
+.form-group.required .control-label:after {
+    content: "*";
+    color: rgb(232, 232, 232);
+}
+.background {
+    background-color: rgb(232, 232, 232);
+}
+.footer {
+    background-color: rgb(221,221,221);
+}
+.tableheading {
+    background-color: rgb(202, 252, 254);
+}
+
+.bdr {
+    border-radius: 10px 0 0 0 ;
+  
+}
+.bdg {
+    border-radius: 0 10px 0 0 ;
+    
+}
+
+span{
+    color:red
+  }
